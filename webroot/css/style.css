@@ -58,7 +58,7 @@ body {
  * Layout for navbar
  */
 .navbar {
-	display block;
+	display: block;
 	background-color:#333;
 	font-family:Verdana;
 	padding:0.5em;
